@@ -1,0 +1,10 @@
+{
+	"id": "bigit",
+	"name": "bigit",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "A VSCode-style interactive source control panel for your vault: stage/unstage, inline diff gutters, commit history, and branch management.",
+	"author": "bilen adam",
+	"authorUrl": "https://bilenadam.com",
+	"isDesktopOnly": true
+}
